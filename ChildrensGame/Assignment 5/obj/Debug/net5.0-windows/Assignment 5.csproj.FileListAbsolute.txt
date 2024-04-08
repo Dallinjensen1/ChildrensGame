@@ -1,0 +1,26 @@
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\Assignment 5.csproj.AssemblyReference.cache
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\Assignment 5_MarkupCompile.cache
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\Assignment 5_MarkupCompile.lref
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\bin\Debug\net5.0-windows\Assignment 5.exe
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\bin\Debug\net5.0-windows\Assignment 5.deps.json
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\bin\Debug\net5.0-windows\Assignment 5.runtimeconfig.json
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\bin\Debug\net5.0-windows\Assignment 5.runtimeconfig.dev.json
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\bin\Debug\net5.0-windows\Assignment 5.dll
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\bin\Debug\net5.0-windows\ref\Assignment 5.dll
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\bin\Debug\net5.0-windows\Assignment 5.pdb
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\Assignment 5.g.resources
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\Assignment 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\Assignment 5.AssemblyInfoInputs.cache
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\Assignment 5.AssemblyInfo.cs
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\Assignment 5.csproj.CoreCompileInputs.cache
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\Assignment 5.dll
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\ref\Assignment 5.dll
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\Assignment 5.pdb
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\Assignment 5.genruntimeconfig.cache
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\GameWindow.g.cs
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\GameWindow.baml
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\ScoreWindow.g.cs
+C:\Users\Dallin\Desktop\CS 3280 v2\Assignment 5\Assignment 5\obj\Debug\net5.0-windows\ScoreWindow.baml
